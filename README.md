@@ -24,6 +24,7 @@ Here are some ideas to get you started:
 
 ## 📇 Contact Me
 * 🧍 Check out [my personal website](https://abdullahdalgic.com.tr)
+* 🚀 Browse [my npm profile](https://www.npmjs.com/~abdullahdalgic)
 * 📫 Reach me by email [abdullahdalgic33@gmail.com](mailto:abdullahdalgic33@gmail.com)
 * 👨‍💼 Check out my [LinkedIn profile](https://www.linkedin.com/in/abdullahdalgic/) 
 * 🐦 Follow me on [Twitter](https://twitter.com/abdullahdalgic_)
